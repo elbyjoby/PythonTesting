@@ -33,8 +33,6 @@ rbiObject = HdfcBankaccount(250)
 rbiObject.debit(250)
 rbiObject.get_balance()
 rbiObject.credit(100)
+rbiObject.get_balance()
 
-rbiObject.get_balance()
-rbiObject.credit(100)
-rbiObject.get_balance()
 
