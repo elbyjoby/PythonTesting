@@ -1,0 +1,44 @@
+{
+  "testCases": [
+    {
+      "testCaseId": "TC001",
+      "username": "john_doe",
+      "password": "pass123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 33
+    },
+    {
+      "testCaseId": "TC002",
+      "username": "jane_smith",
+      "password": "secure456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "age": 28
+    },
+    {
+      "testCaseId": "TC003",
+      "username": "mike_jones",
+      "password": "mike7891",
+      "firstName": "Mike",
+      "lastName": "Jones",
+      "age": 35
+    },
+    {
+      "testCaseId": "TC004",
+      "username": "mike_jones",
+      "password": "mike789",
+      "firstName": "Mikel",
+      "lastName": "Jones",
+      "age": 27
+    },
+    {
+      "testCaseId": "TC005",
+      "username": "mike_jones",
+      "password": "mike789",
+      "firstName": "Mikeeal",
+      "lastName": "Jones",
+      "age": 26
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+1. Difference between Finally and finalize method
+2.Difference between abstract class and normal class
+3.What is encapsulation
+4.difference between private protected and public
+5.what is set,list and tulip
+6.what is dictionary
+7.string operations
+8.what is polymorphism
+9.handled and unhandled exception
+10.for,do while and switch
+11.local and global variable difference\
+12.method overriding and inheritance
+13.Typecasting
+14.static and non static
+15.Constructor
+
+Action Items:
+Read data from config file and print  (  ex: Database Url, DbName,DB value)
+Read data from json File  -- "TC001"="Midhun,Challakkal,12-12-1988,30"  and Print Value
+
+
+Excel Operations :
+Read data from excel (test case id, username, password,firstName,LastName,dateOfBirth,Age)
+write data to excel
+Pytest
+
+Create 5 testcases and each test case testcase id that matches to the excel test case ID
+Create a Json file contains this 5 testcases data in below format "TC001"="Midhun,Challakkal,12-12-1988,30"
+And read the respective test data from config file
+read the same data from excel sheet
+compare the each test data
+and add assert and fail or pass based on the status
+user logger for logging the steps
+
+How to run tests parallel
+how to run tests sequential way
+advantages of pytest framework
+interview questions about pytest framework for test automation

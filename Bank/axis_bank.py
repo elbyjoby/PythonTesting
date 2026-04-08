@@ -1,4 +1,5 @@
-from rbi_bank import RbiBank
+from Bank.rbi_bank import RbiBank
+
 
 class AxisBankaccount(RbiBank):
 
